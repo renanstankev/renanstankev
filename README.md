@@ -2,7 +2,7 @@
 <h2><em><strong>👋 Olá! Seja bem-vindo ao meu GitHub!</strong></em></h2>
 
 <br />
-<em>Meu nome é Renan, sou estudante de Ciência da Computação e Modelagem 3D. Nos últimos tempos, tive como foco de estudos o processo de criação e texturização de modelos 3D em softwares como Blender e Adobe Substance Painter, no entanto, decidi direcionar meu foco agora à programação.</em>
+<em>Meu nome é Renan, sou estudante de Análise e Desenvolvimento de Sistemas e Modelagem 3D. Nos últimos tempos, tive como foco de estudos o processo de criação e texturização de modelos 3D em softwares como Blender e Adobe Substance Painter, no entanto, decidi direcionar meu foco agora à programação.</em>
 <br />
 <br />
   
