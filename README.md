@@ -1,6 +1,6 @@
 <div align="center">
 <h2><em><strong>👋 Olá! Seja bem-vindo(a) ao meu GitHub!</strong></em></h2>
-<em> 💻 Meu nome é Renan e estou cursando o segundo semestre de Análise e Desenvolvimento de Sistemas.</em>
+<strong>Meu nome é Renan e estou cursando o segundo semestre de Análise e Desenvolvimento de Sistemas.</strong>
 <br>
 <br>
 <img src="https://github.com/renanstankev/renanstankev/assets/89418479/622557a5-226a-4064-8056-c2611260d411" height="200px"/>
