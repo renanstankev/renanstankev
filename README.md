@@ -18,7 +18,7 @@
   
 <img src="https://github.com/renanstankev/renanstankev/assets/89418479/622557a5-226a-4064-8056-c2611260d411" height="200px"/>
 ⠀⠀⠀
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=renanstankev&show_icons=true&count_private=true&hide_border=false&title_color=00BFBF&text_color=FFFFFF&ring_color=00BFBF&icon_color=FDFF9A&bg_color=404F89&border_radius=12&custom_title=STATS" alt="Renan Stankevicius github stats" /> 
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=renanstankev&show_icons=true&count_private=true&hide_border=false&title_color=00BFBF&border_color=404F89&text_color=FFFFFF&ring_color=00BFBF&icon_color=FDFF9A&bg_color=404F89&border_radius=12&custom_title=STATS" alt="Renan Stankevicius github stats" /> 
 
 ---
 
