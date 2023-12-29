@@ -8,9 +8,9 @@
 
 </div>
 
-- 🙋‍♂️ Meu nome é Renan Stankevicius
-- 👨‍🎓 Estou me graduando em Análise Desenvolvimento de Sistemas PUC-MG
-- 👨‍💻 Meu foco de estudos no momento é Desenvolvimento de Software
+- Meu nome é Renan Stankevicius
+- Estou me graduando em Análise Desenvolvimento de Sistemas na PUC-MG
+- Meu foco de estudos no momento é Desenvolvimento de Software
 
 ---
 
