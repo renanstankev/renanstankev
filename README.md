@@ -9,7 +9,7 @@
 </div>
 
 - Meu nome é Renan Stankevicius
-- Estou me graduando em Análise Desenvolvimento de Sistemas na PUC-MG
+- Estou me graduando em Análise Desenvolvimento de Sistemas na PUC Minas
 - Meu foco de estudos no momento é Desenvolvimento de Software
 
 ---
