@@ -9,8 +9,8 @@
 </div>
 
 - Meu nome é Renan Stankevicius
-- Estou me graduando em Análise Desenvolvimento de Sistemas na PUC Minas
-- Meu foco de estudos no momento é Desenvolvimento de Software
+- Sou graduado em Análise e Desenvolvimento de Sistemas pela Pontifícia Universidade Católica de Minas Gerais
+- Atuo hoje como Analista de Risco de Crédito e Analytics
 
 ---
 
