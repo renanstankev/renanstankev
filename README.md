@@ -18,8 +18,6 @@
   
 <img src="https://github.com/renanstankev/renanstankev/assets/89418479/622557a5-226a-4064-8056-c2611260d411" height="200px"/>
 ⠀⠀⠀
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=renanstankev&show_icons=true&count_private=true&hide_border=false&title_color=8CA5FF&border_color=8CA5FF&text_color=D1FFD6&ring_color=8CA5FF&icon_color=FFF5D1&bg_color=000000&border_radius=12&custom_title=STATS" alt="Renan Stankevicius github stats" /> 
-
 ---
 
 <br>
